@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nghiavo.live/"/>
-  <updated>2019-04-20T14:40:30.636Z</updated>
+  <updated>2019-04-20T14:42:16.985Z</updated>
   <id>https://nghiavo.live/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://nghiavo.live/2019/04/20/Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi/"/>
     <id>https://nghiavo.live/2019/04/20/Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi/</id>
     <published>2019-04-20T14:24:34.000Z</published>
-    <updated>2019-04-20T14:40:30.636Z</updated>
+    <updated>2019-04-20T14:42:16.985Z</updated>
     
     <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/HBq1hEB_86o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
     
@@ -35,7 +35,13 @@
     </summary>
     
     
-      <category term="cms, headless, backend, strapi" scheme="https://nghiavo.live/tags/cms-headless-backend-strapi/"/>
+      <category term="cms" scheme="https://nghiavo.live/tags/cms/"/>
+    
+      <category term="headless" scheme="https://nghiavo.live/tags/headless/"/>
+    
+      <category term="backend" scheme="https://nghiavo.live/tags/backend/"/>
+    
+      <category term="strapi" scheme="https://nghiavo.live/tags/strapi/"/>
     
   </entry>
   
