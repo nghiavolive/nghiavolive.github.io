@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nghiavo.live/"/>
-  <updated>2019-04-20T14:34:56.794Z</updated>
+  <updated>2019-04-20T14:40:30.636Z</updated>
   <id>https://nghiavo.live/</id>
   
   <author>
@@ -21,19 +21,21 @@
     <link href="https://nghiavo.live/2019/04/20/Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi/"/>
     <id>https://nghiavo.live/2019/04/20/Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi/</id>
     <published>2019-04-20T14:24:34.000Z</published>
-    <updated>2019-04-20T14:34:56.794Z</updated>
+    <updated>2019-04-20T14:40:30.636Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi"><a href="#Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi" class="headerlink" title="Tự xây dựng một hệ thống backend hoàn chỉnh không cần lập trình với Strapi"></a>Tự xây dựng một hệ thống backend hoàn chỉnh không cần lập trình với Strapi</h1><iframe width="560" height="315" src="https://www.youtube.com/embed/HBq1hEB_86o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/HBq1hEB_86o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi&quot;&gt;&lt;a href=&quot;#Tu-xay-dung-mot-he-thong-backend-hoan-chinh-kh
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HBq1hEB_86o&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-m
       
     
     </summary>
     
+    
+      <category term="cms, headless, backend, strapi" scheme="https://nghiavo.live/tags/cms-headless-backend-strapi/"/>
     
   </entry>
   
