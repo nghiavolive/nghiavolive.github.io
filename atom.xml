@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nghiavo.live/"/>
-  <updated>2019-04-01T16:04:29.151Z</updated>
+  <updated>2019-04-20T14:34:56.794Z</updated>
   <id>https://nghiavo.live/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Tự xây dựng một hệ thống backend hoàn chỉnh không cần lập trình với Strapi</title>
+    <link href="https://nghiavo.live/2019/04/20/Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi/"/>
+    <id>https://nghiavo.live/2019/04/20/Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi/</id>
+    <published>2019-04-20T14:24:34.000Z</published>
+    <updated>2019-04-20T14:34:56.794Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi"><a href="#Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi" class="headerlink" title="Tự xây dựng một hệ thống backend hoàn chỉnh không cần lập trình với Strapi"></a>Tự xây dựng một hệ thống backend hoàn chỉnh không cần lập trình với Strapi</h1><iframe width="560" height="315" src="https://www.youtube.com/embed/HBq1hEB_86o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Tu-xay-dung-mot-he-thong-backend-hoan-chinh-khong-can-lap-trinh-voi-Strapi&quot;&gt;&lt;a href=&quot;#Tu-xay-dung-mot-he-thong-backend-hoan-chinh-kh
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Welcome to my blog!</title>
     <link href="https://nghiavo.live/2019/04/01/welcome-to-my-blog/"/>
     <id>https://nghiavo.live/2019/04/01/welcome-to-my-blog/</id>
     <published>2019-04-01T10:34:51.000Z</published>
-    <updated>2019-04-01T16:04:29.151Z</updated>
+    <updated>2019-04-20T14:34:56.795Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hi"><a href="#Hi" class="headerlink" title="Hi,"></a>Hi,</h1><h1 id="I’m-Nghia-Vo-welcome-to-my-blog"><a href="#I’m-Nghia-Vo-welcome-to-my-blog" class="headerlink" title="I’m Nghia Vo, welcome to my blog!"></a>I’m Nghia Vo, welcome to my blog!</h1>]]></content>
     
